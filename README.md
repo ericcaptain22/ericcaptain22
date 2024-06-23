@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing and Network Security**
 
-- 👨‍💻 All of my projects are available at (ericcaptain22.github.io/Portfolio)
+- 👨‍💻 All of my projects are available at [https://ericcaptain22.github.io/Portfolio](https://ericcaptain22.github.io/Portfolio)
 
 - 💬 Ask me about **Cybersecurity**
 
