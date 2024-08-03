@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ericthimialappatt@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/12bwcvNR_VQif3lqDc6swcSBvQbGkWj_T/view](https://drive.google.com/file/d/12bwcvNR_VQif3lqDc6swcSBvQbGkWj_T/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1zl7Lqx0jgN-HdseTzW23iwU1GUuLgnvv//view](https://drive.google.com/file/d/1zl7Lqx0jgN-HdseTzW23iwU1GUuLgnvv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
