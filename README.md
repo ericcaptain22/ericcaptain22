@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ericcaptain22.github.io/Portfolio](https://ericcaptain22.github.io/Portfolio)
 
-- 💬 Ask me about **Cybersecurity**
+- 💬 Ask me about **Cybersecurity & Networking**
 
 - 📫 How to reach me **ericthimialappatt@gmail.com**
 
