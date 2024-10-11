@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eric Thimi Alappatt</h1>
-<h3 align="center">Focused and enthusiastic developer with a keen interest in cybersecurity and software engineering. My passion for these fields emerged through in-depth understanding of fundamental concepts and their vivid application in various projects.</h3>
+<h3 align="center">Focused and enthusiastic developer interested in cybersecurity and software engineering. My passion for these fields emerged through an in-depth understanding of fundamental concepts and their vivid application in various projects.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericcaptain22&label=Profile%20views&color=0e75b6&style=flat" alt="ericcaptain22" /> </p>
 
